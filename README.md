@@ -1,7 +1,5 @@
 # HandGestureSensor
 
-For C programming projects in Sem 1
-
 This project is mainly to detect hand gesture using a sensor that connects with an arduino.
 The sensor will then do this function for the played video.
 
