@@ -9,7 +9,11 @@ Function: Play, Pause, Forward, Rewind, Volume Increased, Volume Decreased
 
 Language used: C, Python
 
-Steps: 1. Run code in Arduino software
+Steps: 
+1. Run code in Arduino software
+
 2. Open demo video
+
 3. Open project directory in command prompt
+
 4. Run python handpy.py
